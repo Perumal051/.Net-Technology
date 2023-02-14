@@ -1,0 +1,5 @@
+c:\Users\ELCOT\Desktop\LeapYearCalculatorLib\obj\Debug\net7.0\LeapYearCalculatorLib.csproj.AssemblyReference.cache
+c:\Users\ELCOT\Desktop\LeapYearCalculatorLib\obj\Debug\net7.0\LeapYearCalculatorLib.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ELCOT\Desktop\LeapYearCalculatorLib\obj\Debug\net7.0\LeapYearCalculatorLib.AssemblyInfoInputs.cache
+c:\Users\ELCOT\Desktop\LeapYearCalculatorLib\obj\Debug\net7.0\LeapYearCalculatorLib.AssemblyInfo.cs
+c:\Users\ELCOT\Desktop\LeapYearCalculatorLib\obj\Debug\net7.0\LeapYearCalculatorLib.csproj.CoreCompileInputs.cache
